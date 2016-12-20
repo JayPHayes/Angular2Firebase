@@ -9,7 +9,7 @@ import {AngularFire, FirebaseListObservable, FirebaseObjectObservable} from 'ang
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'App Works!';
+  title = 'App Works with GitHub!';
 
   constructor(private af: AngularFire){
 
